@@ -1,3 +1,3 @@
 # demo-github-actions
 
-Test Slack notifications - 2
+Test Slack notifications - 3
